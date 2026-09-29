@@ -6,7 +6,7 @@ A comprehensive full-stack project management system built with **React.js**, **
 
 ## 🌐 Live Demo
 
-🔗 [View ProjectHub Live](https://projecthub-lakshay.vercel.app/)
+🔗 [View ProjectHub Live](https://projecthub-jh52tmm6y-devnexus.vercel.app/)
 
 ---
 
