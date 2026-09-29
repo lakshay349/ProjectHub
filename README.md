@@ -305,7 +305,7 @@ git push origin feature/amazing-feature
 
 ### Lakshay Khandelwal
 
-- GitHub: https://github.com/lakshay349
+- GitHub: https://github.com/lakshaykhandelwal1503
 
 ---
 
